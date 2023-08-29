@@ -33,7 +33,7 @@ Project with emphasis on web development using Bootstrap. The main purpose is to
 
 # Project access
 
-:link: https://move-it-kappa.vercel.app/
+:link: https://tin-dog-murex.vercel.app/
 
 ## Author
 
