@@ -13,7 +13,7 @@ Hope you enjoy it!
 
 
 # Project description
-Project with emphasis in web development using Bootstrap. The main goal of the application was simulate the layout of a moving company. 
+Project with emphasis on web development using Bootstrap. The main purpose is to simulate a dog dating app.
 
   <p align=center>
     <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/tindog.png'>
