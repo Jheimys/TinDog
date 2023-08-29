@@ -1,8 +1,4 @@
 
- 
-  <p align=center>
-    <image width="90" heigth="90" src='https://github.com/Jheimys/MoveIT/assets/80724830/a70ab01c-0dde-48d1-9b24-800cba7232c5'>
-  </p>
   
   <h1  align=center>  TinDog </h1>
 
@@ -20,7 +16,7 @@ Hope you enjoy it!
 Project with emphasis in web development using Bootstrap. The main goal of the application was simulate the layout of a moving company. 
 
   <p align=center>
-    <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/move%20it.png'>
+    <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/tindog.png'>
   </p>
 
 # Project Status
